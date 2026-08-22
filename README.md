@@ -16,4 +16,4 @@ Like many of the projects in my repository, this project can be assembled by loo
 The parts used in this assembly can be found below in the table, the CSV file labeled BOM.CSV in the files for this repo, or through the link at the bottom that leads you to a google sheets with the parts. 
 
 ## Important Links + Demo
-
+## [YOUTUBE DEMO](https://youtu.be/bbIQLk0YXHw)
