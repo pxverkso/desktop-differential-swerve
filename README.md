@@ -7,7 +7,7 @@
 ## General Information 
 This Desktop Differential Drive is a display piece with a real size differetial swerve with knobs to simulate real power delivery to the wheel acceleration and steering.
 
-## Why did you build this?
+## Why did I build this?
 I built this display piece to go with my Co-Axial Swerve Drive Display but also to learn about differentials and building a swerve drive out of it. I also designed this to upload and open source for other swerve drive enthusiasts to build and put on their desk. Whichever color scheme you go for, it'll look beautiful. 
 
 ## How does it work? 
