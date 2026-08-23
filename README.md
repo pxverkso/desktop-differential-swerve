@@ -19,6 +19,14 @@ Like many of the projects in my repository, this project can be assembled by loo
 ## Parts 
 The parts used in this assembly can be found below in the table, the CSV file labeled BOM.CSV in the files for this repo, or through the link at the bottom that leads you to a google sheets with the parts. 
 
+| Part Name | Price In USD using # Needed | Price (USD) | Link | Total for Parts Needed (USD) | Grand Total For All (USD) |
+|:----------|:----------------------------|------------:|:-----|----------------------------:|--------------------------:|
+| M4 10MM Screw | 2.58 (19 Screws) | 3.39 | https://www.gobilda.com/m4-x-0-7mm-zinc-plated-socket-head-screw-10mm-length/?sku=2800-0004-0010 | 55.36 | 63.38 |
+| M4 22MM Screw | 0.66 (4 Screws) | 4.09 | https://www.gobilda.com/m4-x-0-7mm-zinc-plated-socket-head-screw-22mm-length-25-pack/ | | |
+| Steel Washer | 1.20 (15 Washers) | 1.99 | https://www.gobilda.com/2801-series-zinc-plated-steel-washer-4mm-id-x-8mm-od/?sku=2801-0004-0008 | | |
+| V-Groove Bearings | 32.95 (11 Bearings) | 35.94 | https://www.gobilda.com/1609-series-v-groove-bearing-4mm-id-x-13mm-od-6mm-thickness-2-pack/ | | |
+| 8MM Rex Bearing | 17.97 (6 Bearings) | 17.97 | https://www.gobilda.com/1611-series-flanged-ball-bearing-8mm-rex-id-x-14mm-od-5mm-thickness-2-pack/ | | |
+
 ## Important Links + Demo
 ## [YOUTUBE DEMO](https://youtu.be/bbIQLk0YXHw)
 ## [ONSHAPE/FOR ASSEMBLY](https://cad.onshape.com/documents/2c09ee4f82a9fb1fa02703aa/w/9bab35b67f524a3939d8607d/e/f2382119ef32b0f96c9b1e96?renderMode=0&uiState=6a8a251504acdaf3b41e200d)
